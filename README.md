@@ -1,4 +1,4 @@
-# Diplomado2019
+# Diplomado 2019
 Sesiones de R para el diplomado de estadistica impartido en el ITAM. 
 
 Para Windows, OS X o ciertas distribuciones de Linux, este paso es el mismo:
