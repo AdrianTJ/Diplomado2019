@@ -30,6 +30,11 @@ Temario:
   * Data Frames 
   * Summary
 - Sesion 3
+  * Lectura de datos
+  * Distintos tipos de datos
+  * Lectura de excel
+  * Estructura de datos en la computadora en general
+- Sesion 4
   * For
   * While
   * If
@@ -37,13 +42,8 @@ Temario:
   * Funciones
   * Funciones de distribucion
   * Plots basicas
-- Sesion 4
-  * Ggplot2
-  * Limpiar datos con dplyr, tidyr
-  * Modelos Lineales basicos
-- Sesion 5 
-  * Simulacion
-  * Modelos Lineales 
-  * Clustering
+
+- Sesiones 5 y 6
+  * Plots
   
   ---
