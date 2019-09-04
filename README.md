@@ -46,4 +46,7 @@ Temario:
 - Sesiones 5 y 6
   * Plots
   
+- Sesion 7 
+  * Ejemplo Práctico: Dataset de Iris
+ 
   ---
