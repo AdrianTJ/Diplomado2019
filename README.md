@@ -48,5 +48,8 @@ Temario:
   
 - Sesion 7 
   * Ejemplo Práctico: Dataset de Iris
+
+- Sesion 8
+  * Manipulacion de data sets mas avanzada, ejemplo de movies.csv
  
   ---
