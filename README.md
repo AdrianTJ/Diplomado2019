@@ -52,5 +52,13 @@ Temario:
 - Sesion 8
   * Manipulacion de data sets mas avanzada
   * Ejemplo de movies.csv
- 
+  
+- Sesion 9
+  * Continuacion de movies.csv
+  
+- Sesion 10 
+* Ejemplos de data de vida real
+* Ejemplo de modelo de regresion con datos de vida real
+* Comienzo de simulacion
+
   ---
